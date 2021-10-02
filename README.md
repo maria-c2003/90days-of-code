@@ -2,176 +2,146 @@
 
 ### 👨‍💻 Creating small projects, learning new technologies and studying every day 👩‍💻
 
-
-
 </br>
-<a href="./JavaScript/README.md">
 
 ## JavaScript
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
-- [ ] 01/out
-- [ ]  02/out
-- [ ]  03/out
-- [ ]  04/out
-- [ ]  05/out
-- [ ]  06/out
-- [ ]  07/out
-- [ ]  08/out
-- [ ]  09/out
-- [ ]  10/out
+- [ ]  01/10
+- [ ]  02/10
+- [ ]  03/10
+- [ ]  04/10
+- [ ]  05/10
+- [ ]  06/10
+- [ ]  07/10
+- [ ]  08/10
+- [ ]  09/10
+- [ ]  10/10
 
-</a>
 </br>
-
-<a href="./React/README.md">
 
 ## React
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
-- [ ]  11/out
-- [ ]  12/out
-- [ ]  13/out
-- [ ]  14/out
-- [ ]  15/out
-- [ ]  16/out
-- [ ]  17/out
-- [ ]  18/out
-- [ ]  19/out
-- [ ]  20/out
+- [ ]  11/10
+- [ ]  12/10
+- [ ]  13/10
+- [ ]  14/10
+- [ ]  15/10
+- [ ]  16/10
+- [ ]  17/10
+- [ ]  18/10
+- [ ]  19/10
+- [ ]  20/10
 
-
-</a>
 </br>
-
-<a href="./Backend/README.md">
 
 ## Backend
 
-- [ ]  21/out
-- [ ]  22/out
-- [ ]  23/out
-- [ ]  24/out
-- [ ]  25/out
-- [ ]  26/out
-- [ ]  27/out
-- [ ]  28/out
-- [ ]  29/out
-- [ ]  30/out
+- [ ]  21/10
+- [ ]  22/10
+- [ ]  23/10
+- [ ]  24/10
+- [ ]  25/10
+- [ ]  26/10
+- [ ]  27/10
+- [ ]  28/10
+- [ ]  29/10
+- [ ]  30/10
 
-
-</a>
 </br>
-<a href="./Python/README.md">
 
 ## Python
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
-- [ ]  31/out
-- [ ]  01/nov
-- [ ]  02/nov
-- [ ]  03/nov
-- [ ]  04/nov
-- [ ]  05/nov
-- [ ]  06/nov
-- [ ]  07/nov
-- [ ]  08/nov
-- [ ]  09/nov
+- [ ]  31/10
+- [ ]  01/11
+- [ ]  02/11
+- [ ]  03/11
+- [ ]  04/11
+- [ ]  05/11
+- [ ]  06/11
+- [ ]  07/11
+- [ ]  08/11
+- [ ]  09/11
 
-
-</a>
 </br>
-<a href="./DJango/README.md">
 
 ## DJango
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />
 
-- [ ]  10/nov
-- [ ]  11/nov
-- [ ]  12/nov
-- [ ]  13/nov
-- [ ]  14/nov
-- [ ]  15/nov
-- [ ]  16/nov
-- [ ]  17/nov
-- [ ]  18/nov
-- [ ]  19/nov
-
-</a>
+- [ ]  10/11
+- [ ]  11/11
+- [ ]  12/11
+- [ ]  13/11
+- [ ]  14/11
+- [ ]  15/11
+- [ ]  16/11
+- [ ]  17/11
+- [ ]  18/11
+- [ ]  19/11
 
 </br>
-<a href="./Powershell/README.md">
 
 ## Powershell
 
-- [ ]  20/nov
-- [ ]  21/nov
-- [ ]  22/nov
-- [ ]  23/nov
-- [ ]  24/nov
-- [ ]  25/nov
-- [ ]  26/nov
-- [ ]  27/nov
-- [ ]  28/nov
-- [ ]  29/nov
+- [ ]  20/11
+- [ ]  21/11
+- [ ]  22/11
+- [ ]  23/11
+- [ ]  24/11
+- [ ]  25/11
+- [ ]  26/11
+- [ ]  27/11
+- [ ]  28/11
+- [ ]  29/11
 
-</a>
 </br>
-
-<a href="./Ionic/README.md">
 
 ## Ionic
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />
 
-- [ ]  30/nov
-- [ ]  01/dez
-- [ ]  02/dez
-- [ ]  03/dez
-- [ ]  04/dez
-- [ ]  05/dez
-- [ ]  06/dez
-- [ ]  07/dez
-- [ ]  08/dez
-- [ ]  09/dez
+- [ ]  30/11
+- [ ]  01/12
+- [ ]  02/12
+- [ ]  03/12
+- [ ]  04/12
+- [ ]  05/12
+- [ ]  06/12
+- [ ]  07/12
+- [ ]  08/12
+- [ ]  09/12
 
-</a>
 </br>
-
-<a href="./Flutter/README.md">
 
 ## Flutter e Firebase
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
 
-- [ ]  10/dez
-- [ ]  11/dez
-- [ ]  12/dez
-- [ ]  13/dez
-- [ ]  14/dez
-- [ ]  15/dez
-- [ ]  16/dez
-- [ ]  17/dez
-- [ ]  18/dez
-- [ ]  19/dez
-
-</a>
+- [ ]  10/12
+- [ ]  11/12
+- [ ]  12/12
+- [ ]  13/12
+- [ ]  14/12
+- [ ]  15/12
+- [ ]  16/12
+- [ ]  17/12
+- [ ]  18/12
+- [ ]  19/12
 
 </br>
-<a href="./Unity/README.md">
 
 ## C# e Unity
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
 
-- [ ]  20/dez
-- [ ]  21/dez
-- [ ]  22/dez
-- [ ]  23/dez
-- [ ]  24/dez
-- [ ]  25/dez
-- [ ]  26/dez
-- [ ]  27/dez
-- [ ]  28/dez
-- [ ]  29/dez
-
-</a>
+- [ ]  20/12
+- [ ]  21/12
+- [ ]  22/12
+- [ ]  23/12
+- [ ]  24/12
+- [ ]  25/12
+- [ ]  26/12
+- [ ]  27/12
+- [ ]  28/12
+- [ ]  29/12
