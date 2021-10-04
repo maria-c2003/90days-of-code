@@ -7,9 +7,9 @@
 ## JavaScript
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
-- [ ]  01/10
-- [ ]  02/10
-- [ ]  03/10
+- [X]  01/10
+- [X]  02/10
+- [X]  03/10
 - [ ]  04/10
 - [ ]  05/10
 - [ ]  06/10
