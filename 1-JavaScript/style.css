@@ -52,10 +52,26 @@ body {
   margin-top: 5%;
 }
 
-.content {
-  padding: 100% 30px 20px;
-  width: 100%;
-  color: #43085f;
-  overflow: hidden;
+.info-container-text {
+  top: 7%;
+  bottom: 2%;
+  left: 2%;
+  right: 2%;
+  width: 96%;
+  background: #FFCCEB;
+  height: calc(1rem + 18vw);
+  border-radius: 50px 50px 50px 50px;
   position: relative;
+  margin-top: 5%;
+}
+
+.text-info-card{
+  top: 15%;
+  position: relative;
+  text-align: justify;
+  left: 3%;
+  right: 3%;
+  width: 94%;
+  font-size: calc(1rem + 0.3vw);
+  color: black;
 }

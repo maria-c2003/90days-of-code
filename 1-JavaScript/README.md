@@ -7,8 +7,8 @@
 
 #### Day 1 - I created a readme for main project
 #### Day 2 - I created a design for my web portifilio and started the index.html and readme for this repository
-#### Day 3 - I created the style.css and continued in index.css
-#### Day 4 -
+#### Day 3 - I created the style.css and continued in index.html
+#### Day 4 - Continued project
 #### Day 5 -
 #### Day 6 -
 #### Day 7 -
